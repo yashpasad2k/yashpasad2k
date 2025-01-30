@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/yashpasad369/](https://www.linkedin.com/in/yashpasad369/)
+- 📝 I  write articles on [https://www.linkedin.com/in/yashpasad369/](https://www.linkedin.com/in/yashpasad369/)
 
 - 📫 How to reach me **yashpasad52@gmail.com**
 - 📫 Data analyst resume- https://drive.google.com/file/d/18zhEf-uHmdmj-pq4JXsChy-4njQn1kO5/view?usp=drive_link
