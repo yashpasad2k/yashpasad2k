@@ -8,7 +8,8 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/yashpasad369/](https://www.linkedin.com/in/yashpasad369/)
 
 - 📫 How to reach me **yashpasad52@gmail.com**
-
+- 📫 Data analyst resume- https://drive.google.com/file/d/18zhEf-uHmdmj-pq4JXsChy-4njQn1kO5/view?usp=drive_link
+- 📫 Python Developer resume- https://drive.google.com/file/d/1aYJ_iclad4iMBLwl7eATihGUZQ6NkEJZ/view?usp=drive_link
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yashpasad2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashpasad2k" height="30" width="40" /></a>
