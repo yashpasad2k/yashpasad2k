@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Pasad</h1>
-<h3 align="center">I started my journey as a Blockchain Developer, but now, I specialize in Python development, building scalable solutions and diving into data analysis.</h3>
+<h3 align="center">I started my journey as a Blockchain Developer, but now, I specialize in Python development, building scalable solutions & diving into data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpasad2k&label=Profile%20views&color=0e75b6&style=flat" alt="yashpasad2k" /> </p>
 
