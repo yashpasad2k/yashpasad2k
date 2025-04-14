@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpasad2k&label=Profile%20views&color=0e75b6&style=flat" alt="yashpasad2k" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Pytorch**
 
 - 📝 I  write articles on [https://www.linkedin.com/in/yashpasad369/](https://www.linkedin.com/in/yashpasad369/)
 
